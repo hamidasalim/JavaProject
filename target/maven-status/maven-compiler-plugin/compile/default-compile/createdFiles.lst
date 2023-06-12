@@ -1,0 +1,15 @@
+dao\GestionUserImpJpa.class
+dao\entities\Event.class
+dao\GestionClubImpJpa.class
+dao\entities\Club.class
+dao\IGestionEvent.class
+web\Auth.class
+dao\IGestionUser.class
+dao\entities\Faculte.class
+dao\GestionEventImpJpa.class
+dao\GestionFaculteImpJpa.class
+web\Regis.class
+dao\entities\User.class
+dao\IGestionClub.class
+dao\IGestionFaculte.class
+web\Controller.class
